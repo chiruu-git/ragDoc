@@ -47,10 +47,10 @@ powered by local models through [Ollama](https://ollama.com). No API keys, no cl
 > `![Chat with sources](docs/chat.png)`
 
 <p>
-  <img src="docs/documents.png" width="48%" />
-  <img src="docs/settings.png" width="48%" />
-  <img src="docs/chat.png" width="48%" />
-  <img src="docs/general.png" width="48%" />
+  <img src="docs/documents_1.png" width="48%" />
+  <img src="docs/settings_1.png" width="48%" />
+  <img src="docs/chat_1.png" width="48%" />
+  <img src="docs/general_1.png" width="48%" />
 </p>
 
 
