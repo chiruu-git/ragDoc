@@ -1,9 +1,3 @@
----
-noteId: "5e24a4b0e6a811f197b6f33bc58a3b72"
-tags: []
-
----
-
 <div align="center">
 
 # 📚 Local RAG DOC
