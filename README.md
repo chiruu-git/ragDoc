@@ -150,7 +150,7 @@ ollama pull nomic-embed-text
 ### Installation
  
 ```bash
-git clone https://github.com/<your-username>/ragDoc.git
+git clone https://github.com/chiruu-git/ragDoc
 cd ragDoc
  
 python3 -m venv .venv
